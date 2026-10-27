@@ -1,0 +1,10 @@
+D:\Projects\TeamDex\src-tauri\target\debug\deps\toml_datetime-8786f59e27ca2943.d: C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+D:\Projects\TeamDex\src-tauri\target\debug\deps\libtoml_datetime-8786f59e27ca2943.rlib: C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+D:\Projects\TeamDex\src-tauri\target\debug\deps\libtoml_datetime-8786f59e27ca2943.rmeta: C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs
+
+C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\lib.rs:
+C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\datetime.rs:
+C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\de.rs:
+C:\Users\sachi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.2+spec-1.1.0\src\ser.rs:

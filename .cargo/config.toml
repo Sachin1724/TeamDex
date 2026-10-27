@@ -1,0 +1,3 @@
+[build]
+target-dir = "C:/Users/sachi/AppData/Local/Temp/teamdex_target"
+incremental = false
